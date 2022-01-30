@@ -1,0 +1,27 @@
+:root {
+  --primary: #00BFFF;
+  --secondary: #00688B;
+  --padding: 15px;
+  --cinza : #4A708B;
+  --cinza-claro: #dedede;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  color: indianred;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  padding: 30px;
+  margin: 0 auto;
+}
